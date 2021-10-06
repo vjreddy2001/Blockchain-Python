@@ -189,7 +189,7 @@ The following dependencies are required for this project.
     - Use a [block explorer](https://tbtc.bitaps.com/) to watch transactions on the address.
 
     - Send a transaction to another testnet address (either one of your own, or the faucet's).
-
+    - https://tbtc.bitaps.com
     - Screenshot the confirmation of the transaction like so:
 
     
