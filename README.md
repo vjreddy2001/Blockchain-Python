@@ -190,6 +190,7 @@ The following dependencies are required for this project.
 
     - Send a transaction to another testnet address (either one of your own, or the faucet's).
     - https://tbtc.bitaps.com
+    - https://faucet.ropsten.be/
     - Screenshot the confirmation of the transaction like so:
 
     
